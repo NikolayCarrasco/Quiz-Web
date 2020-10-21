@@ -1,0 +1,17 @@
+h2 {
+  padding-top: 1ex;
+  padding-bottom: 2ex;
+}
+.from-group {
+  padding-bottom: 2ex;
+}
+.btn-secundary {
+  background-color: blue;
+  border: solid 2px;
+}
+#mailtext {
+  margin-top: 1ex;
+}
+.collapse {
+  margin-bottom: 2ex;
+}
